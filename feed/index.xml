@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Teemukilla</title>
+	<atom:link href="http://localhost/testisivu/feed/?simply_static_page=6129" rel="self" type="application/rss+xml" />
+	<link>https://teemukilla.github.io/teemukilla/</link>
+	<description></description>
+	<lastBuildDate>Fri, 04 Aug 2023 15:57:33 +0000</lastBuildDate>
+	<language>fi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3</generator>
+	<item>
+		<title>Moikka maailma!</title>
+		<link>https://teemukilla.github.io/teemukilla//2023/08/04/moikka-maailma/</link>
+					<comments>https://teemukilla.github.io/teemukilla//2023/08/04/moikka-maailma/#comments</comments>
+		
+		<dc:creator><![CDATA[teemu-unkila]]></dc:creator>
+		<pubDate>Fri, 04 Aug 2023 15:57:33 +0000</pubDate>
+				<category><![CDATA[Yleinen]]></category>
+		<guid isPermaLink="false">https://teemukilla.github.io/teemukilla//?p=1</guid>
+
+					<description><![CDATA[Tervetuloa WordPressiin. Tämä on ensimmäinen artikkelisi. Muokkaa sitä tai poista se ja aloita kirjoittamaan!]]></description>
+										<content:encoded><![CDATA[
+<p>Tervetuloa WordPressiin. Tämä on ensimmäinen artikkelisi. Muokkaa sitä tai poista se ja aloita kirjoittamaan!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://teemukilla.github.io/teemukilla//2023/08/04/moikka-maailma/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
