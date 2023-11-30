@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>
-	Sivuston Teemukilla kommentit	</title>
-	<atom:link href="http://localhost/testisivu/comments/feed/?simply_static_page=12849" rel="self" type="application/rss+xml" />
+	Sivuston Teemu unkila kommentit	</title>
+	<atom:link href="http://localhost/testisivu/comments/feed/?simply_static_page=16505" rel="self" type="application/rss+xml" />
 	<link>https://teemukilla.github.io/teemukilla/</link>
 	<description></description>
 	<lastBuildDate>Fri, 04 Aug 2023 15:57:33 +0000</lastBuildDate>

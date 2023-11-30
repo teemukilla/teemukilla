@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Yleinen &#8211; Teemukilla</title>
-	<atom:link href="http://localhost/testisivu/category/yleinen/feed/?simply_static_page=13528" rel="self" type="application/rss+xml" />
+	<title>Yleinen &#8211; Teemu unkila</title>
+	<atom:link href="http://localhost/testisivu/category/yleinen/feed/?simply_static_page=17292" rel="self" type="application/rss+xml" />
 	<link>https://teemukilla.github.io/teemukilla/</link>
 	<description></description>
 	<lastBuildDate>Fri, 04 Aug 2023 15:57:33 +0000</lastBuildDate>

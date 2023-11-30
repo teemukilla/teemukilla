@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Teemukilla</title>
-	<atom:link href="http://localhost/testisivu/feed/?simply_static_page=12848" rel="self" type="application/rss+xml" />
+	<title>Teemu unkila</title>
+	<atom:link href="http://localhost/testisivu/feed/?simply_static_page=16504" rel="self" type="application/rss+xml" />
 	<link>https://teemukilla.github.io/teemukilla/</link>
 	<description></description>
 	<lastBuildDate>Fri, 04 Aug 2023 15:57:33 +0000</lastBuildDate>
