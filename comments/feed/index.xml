@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Sivuston Teemu unkila kommentit	</title>
-	<atom:link href="http://localhost/testisivu/comments/feed/?simply_static_page=45066" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/testisivu/comments/feed/?simply_static_page=51579" rel="self" type="application/rss+xml" />
 	<link>https://teemukilla.github.io/teemukilla/</link>
 	<description></description>
-	<lastBuildDate>Mon, 19 Feb 2024 08:33:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 Mar 2024 08:43:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
